@@ -89,8 +89,6 @@ O projeto é totalmente aberto: esquemático, PCB (KiCad 9.0), firmware e docume
 | J17 | Entrada ZMCT101 |
 | J18 | Entrada SCT-013 |
 | J19 | Terminal dos optoacopladores (screw terminal 4 vias) |
-| J20 / J21 / J22 | Saídas para servo motor 1/2/3 (via optoacopladores) |
-| J23 / J24 | Saídas para servo motor 4/5 |
 | J25 | Saída dos relés (screw terminal 6 vias — NA/NF/COM de RL1 e RL2) |
 | J26 | DS18B20 (screw terminal 3 vias) |
 | J27 | CAN bus (3 vias) |
