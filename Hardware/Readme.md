@@ -2,4 +2,4 @@
 
 | Versão | Descrição |
 |---|---|
-| V1.0 | Primeira versão, feita nas aulas do [curso](thalesferreira.com/cursos) CONTÉM ERROS! |
+| V1.0 | Primeira versão, feita nas aulas do [curso](https://thalesferreira.com/cursos) CONTÉM ERROS! |
